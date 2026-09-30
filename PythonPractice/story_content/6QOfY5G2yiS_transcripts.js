@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":9,"text":"Thank you for completing the Python Data Analysis Practice project."},{"start":4289,"text":"You have now worked through 5 key areas"},{"start":7170,"text":"Python fundamentals,"},{"start":8890,"text":"control structures and functions,"},{"start":11010,"text":"NumPy,"},{"start":12010,"text":"matplotlib,"},{"start":13159,"text":"and pandas."},{"start":14369,"text":"If you would like more practice,"},{"start":16090,"text":"select any section below to revisit it."},{"start":18930,"text":"Otherwise,"},{"start":19809,"text":"select exit Practice to finish."},{"start":22250,"text":"Thank you for your participation,"},{"start":24090,"text":"and I hope this practice has helped"},{"start":25729,"text":"strengthen your Python and data analysis skills."},{"start":29170,"text":"Cheers."}]}]};
+    window.globalLoadJsAsset('story_content/6QOfY5G2yiS_transcripts.js', JSON.stringify(data));
+})();
