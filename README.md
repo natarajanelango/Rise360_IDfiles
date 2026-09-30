@@ -1,50 +1,80 @@
-# C++ Programming Fundamentals
+# Rise 360 eLearning Portfolio
 
-A free online course developed by **Elango Natarajan**.
-Built with Articulate Rise 360.
+This repository contains interactive eLearning courses developed using **Articulate Rise 360**.
 
-## Start the course
+The courses are hosted using **GitHub Pages** so they can be viewed directly in a web browser without requiring an LMS.
 
-👉 [Click here to open the course](https://natarajanelango.github.io/Rise360_IDfiles/)
+## Live Courses
 
-No sign up or login needed. It works on computers, tablets and phones. For the best experience on a phone, turn your screen sideways.
+### 1. C++ Programming Fundamentals
 
-## About this course
+An introductory eLearning course designed to help learners understand fundamental C++ programming concepts through structured lessons, examples, and interactive learning activities.
 
-This eLearning course helps you learn the fundamentals of C++ programming.
-You will build a strong base in core concepts step by step.
-Each lesson uses simple explanations, examples and short activities.
+**Topics include:**
+- Introduction to C++
+- Basic programming concepts
+- Variables and data types
+- Operators and expressions
+- Program structure
+- Practical programming examples
+- Knowledge checks and interactive activities
 
-## Who is it for?
+▶️ **[Launch C++ Programming Fundamentals](https://natarajanelango.github.io/Rise360_IDfiles/Cplusplus_Fundamentals/)**
 
-This course is for beginners, students and anyone new to programming.
-No prior coding experience is needed.
+---
 
-## What you will learn
+## Courses in Development
 
-- Input and output (I/O) operations
-- Control structures
-- Arrays
-- Functions
-- Structures
+Additional Rise 360 learning experiences will be added to this portfolio, including:
 
-## Course details
+- Giving Constructive Feedback
+- Workplace and leadership learning
+- Artificial Intelligence and digital skills
+- Technical and professional development courses
 
-- **Duration:** About 2 to 3 hours (120 to 180 minutes)
-- **Lessons:** 6 lessons
-- **Final quiz:** Multiple choice assessment
-- **Pass mark:** 80%
-- **Retakes:** Unlimited
+---
 
-You can go at your own pace. Take breaks whenever you need.
+## Instructional Design Approach
 
-## About the author
+The courses in this portfolio demonstrate the application of instructional design principles including:
 
-**Dr Elango Natarajan**
-PhD, CMEngNZ, CEng (UK)
-Academic and learning designer based in Auckland, New Zealand.
+- Clear learning objectives
+- Chunked and scaffolded content
+- Scenario-based learning
+- Interactive activities
+- Knowledge checks
+- Learner feedback
+- Practical workplace application
+- Responsive eLearning design
+
+---
+
+## Development Tools
+
+- Articulate Rise 360
+- Review 360
+- GitHub
+- GitHub Pages
+- Multimedia learning resources
+- AI-assisted content and visual development
+
+---
+
+## About
+
+**Elango Natarajan**
+
+Educator, researcher and eLearning developer with experience in tertiary education, engineering, digital learning and applied technology.
 
 https://www.linkedin.com/in/elango-natarajan-63191516/
+
+This repository is used as part of my **instructional design and eLearning development portfolio**.
+
+---
+
+> Note: These are web-hosted portfolio versions of the courses. LMS features such as SCORM completion tracking, learner scores and reporting are not enabled in the GitHub Pages versions.
+
+
 
 ## Copyright
 
